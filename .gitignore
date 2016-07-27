@@ -35,6 +35,9 @@ build/Release
 node_modules
 jspm_packages
 
+# bower dependencies
+src/main/resources/assets/js/lib
+
 # Optional npm cache directory
 .npm
 
@@ -55,7 +58,6 @@ jspm_packages
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
 
 
 ######################
